@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌙 Hi, I'm Tishana!<br><br>👩‍💻 Final-year Computer Science student<br>🧬 A previous BSc degree in Genetics & Psychology<br>💡 Full-stack developer with an enthusiasm for Frontend<br>📂 Passionate about turning ideas into clean, functional code<br>☕ Fueled by caffeine and curiosity
+# 🌙 Hi, I'm Tishana!
+👩‍💻 Final-year Computer Science student<br>🧬 A previous BSc degree in Genetics & Psychology<br>💡 Full-stack developer with an enthusiasm for Frontend<br>📂 Passionate about turning ideas into clean, functional code<br>☕ Fueled by caffeine and curiosity
 
 
 ## 🌐 Socials:
